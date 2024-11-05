@@ -5,7 +5,7 @@
 | 날짜    | 문제   | 종류  | 플랫폼 | 난이도 |
 |---------|--------|-------|--------|--------|
 | 11.01 | [행렬 덧셈](https://www.acmicpc.net/problem/2738), [최댓값](https://www.acmicpc.net/problem/2566) | 2차원 배열 | Baekjoon | Bronze 3 |
-| 11.05 |  |  |  |  |
+| 11.05 | [세로읽기](https://www.acmicpc.net/problem/10798), [색종이](https://www.acmicpc.net/problem/2563) | 2차원 배열 | Baekjoon | Bronze 1, Silver 5 |
 | 11.06 |  |  |  |  |
 | 11.07 |  |  |  |  |
 | 11.08 |  |  |  |  |
