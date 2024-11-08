@@ -9,7 +9,7 @@
 | 11.05 | [세로읽기](https://www.acmicpc.net/problem/10798), [색종이](https://www.acmicpc.net/problem/2563) | 2차원 배열 | Baekjoon | Bronze 1, Silver 5 |
 | 11.06 | [진법 변환](https://www.acmicpc.net/problem/2745), [진법 변환 2](https://www.acmicpc.net/problem/11005) | 일반 수학 1 | Baekjoon | Bronze 2, Bronze 1 |
 | 11.07 | [세탁소 사장 동혁](https://www.acmicpc.net/problem/2720), [중앙 이동 알고리즘](https://www.acmicpc.net/problem/2903) | 일반 수학 1 | Baekjoon | Bronze 3, Bronze 3 |
-| 11.08 |  |  |  |  |
+| 11.08 | [벌집](https://www.acmicpc.net/problem/2292), [분수찾기](https://www.acmicpc.net/problem/1193), [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) | 일반 수학 1 | Baekjoon | Bronze 2, Silver 5, Bronze 1 |
 | 11.09 |  |  |  |  |
 | 11.10 |  |  |  |  |
 
