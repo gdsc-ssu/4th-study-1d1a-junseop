@@ -16,7 +16,7 @@
 ### 11월 2주차
 | 날짜    | 문제   | 종류  | 플랫폼 | 난이도 |
 |---------|--------|-------|--------|--------|
-| 11.11 |  |  |  |  |
+| 11.11 | [직사각형](https://www.acmicpc.net/problem/27323), [직사각형에서 탈출](https://www.acmicpc.net/problem/1085), [네 번째 점](https://www.acmicpc.net/problem/3009) | 기하: 직사각형과 삼각형 | Baekjoon | Bronze 5, Bronze 3, Bronze 3 |
 | 11.12 |  |  |  |  |
 | 11.13 |  |  |  |  |
 | 11.14 |  |  |  |  |
