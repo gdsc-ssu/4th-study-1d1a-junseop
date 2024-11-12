@@ -17,7 +17,7 @@
 | 날짜    | 문제   | 종류  | 플랫폼 | 난이도 |
 |---------|--------|-------|--------|--------|
 | 11.11 | [직사각형](https://www.acmicpc.net/problem/27323), [직사각형에서 탈출](https://www.acmicpc.net/problem/1085), [네 번째 점](https://www.acmicpc.net/problem/3009) | 기하: 직사각형과 삼각형 | Baekjoon | Bronze 5, Bronze 3, Bronze 3 |
-| 11.12 |  |  |  |  |
+| 11.12 | [수학은 체육과목 입니다](https://www.acmicpc.net/problem/15894), [대지](https://www.acmicpc.net/problem/9063), [삼각형 외우기](https://www.acmicpc.net/problem/10101) | 기하: 직사각형과 삼각형 | Baekjoon | Bronze 3, Bronze 3, Bronze 4 |
 | 11.13 |  |  |  |  |
 | 11.14 |  |  |  |  |
 | 11.15 |  |  |  |  |
