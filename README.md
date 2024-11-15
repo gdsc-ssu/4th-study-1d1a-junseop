@@ -20,7 +20,7 @@
 | 11.12 | [수학은 체육과목 입니다](https://www.acmicpc.net/problem/15894), [대지](https://www.acmicpc.net/problem/9063), [삼각형 외우기](https://www.acmicpc.net/problem/10101) | 기하: 직사각형과 삼각형 | Baekjoon | Bronze 3, Bronze 3, Bronze 4 |
 | 11.13 | [삼각형과 세 변](https://www.acmicpc.net/problem/5074), [세 막대](https://www.acmicpc.net/problem/14215), [알고리즘 수업 - 알고리즘의 수행 시간 1](https://www.acmicpc.net/problem/24262),  [알고리즘 수업 - 알고리즘의 수행 시간 2](https://www.acmicpc.net/problem/24263),  [알고리즘 수업 - 알고리즘의 수행 시간 3](https://www.acmicpc.net/problem/24264) | 기하: 직사각형과 삼각형, 시간 복잡도 | Baekjoon | Bronze 3, Bronze 3, Bronze 5,  Bronze 4, Bronze 3 |
 | 11.14 | [알고리즘 수업 - 알고리즘의 수행 시간 5](https://www.acmicpc.net/problem/24266), [알고리즘 수업 - 알고리즘의 수행 시간 6](https://www.acmicpc.net/problem/24267), [알고리즘 수업 - 점근적 표기 1](https://www.acmicpc.net/problem/24313) | 시간 복잡도 | Baekjoon | Bronze 3, Bronze 2, Silver 5 |
-| 11.15 |  |  |  |  |
+| 11.15 | [블랙잭](https://www.acmicpc.net/problem/2798), [분해합](https://www.acmicpc.net/problem/2231) | 브루트 포스 | Baekjoon | Bronze 2, Bronze 2 |
 | 11.16 |  |  |  |  |
 | 11.17 |  |  |  |  |
 
