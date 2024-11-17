@@ -22,7 +22,7 @@
 | 11.14 | [알고리즘 수업 - 알고리즘의 수행 시간 5](https://www.acmicpc.net/problem/24266), [알고리즘 수업 - 알고리즘의 수행 시간 6](https://www.acmicpc.net/problem/24267), [알고리즘 수업 - 점근적 표기 1](https://www.acmicpc.net/problem/24313) | 시간 복잡도 | Baekjoon | Bronze 3, Bronze 2, Silver 5 |
 | 11.15 | [블랙잭](https://www.acmicpc.net/problem/2798), [분해합](https://www.acmicpc.net/problem/2231) | 브루트 포스 | Baekjoon | Bronze 2, Bronze 2 |
 | 11.16 | [수학은 비대면강의입니다](https://www.acmicpc.net/problem/19532) | 브루트 포스 | Baekjoon | Bronze 2 |
-| 11.17 |  |  |  |  |
+| 11.17 | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | 브루트 포스 | Baekjoon | Silver 4 |
 
 ### 11월 3주차
 | 날짜    | 문제   | 종류  | 플랫폼 | 난이도 |
