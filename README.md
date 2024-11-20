@@ -29,7 +29,7 @@
 |---------|--------|-------|--------|--------|
 | 11.18 | [영화감독 숌](https://www.acmicpc.net/problem/1436) | 브루트 포스 | Baekjoon | Silver 5 |
 | 11.19 | [설탕 배달](https://www.acmicpc.net/problem/2839) | 브루트 포스 | Baekjoon | Silver 4 |
-| 11.20 |  |  |  |  |
+| 11.20 | [수 정렬하기](https://www.acmicpc.net/problem/2750) | 정렬 | Baekjoon | Bronze 2 |
 | 11.21 |  |  |  |  |
 | 11.22 |  |  |  |  |
 | 11.23 |  |  |  |  |
