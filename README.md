@@ -32,7 +32,7 @@
 | 11.20 | [수 정렬하기](https://www.acmicpc.net/problem/2750) | 정렬 | Baekjoon | Bronze 2 |
 | 11.21 |  |  |  |  |
 | 11.22 | [대표값2](https://www.acmicpc.net/problem/2587) | 정렬 | Baekjoon | Bronze 2 |
-| 11.23 |  |  |  |  |
+| 11.23 | [커트라인](https://www.acmicpc.net/problem/25305) | 정렬 | Baekjoon | Bronze 2 |
 | 11.24 |  |  |  |  |
 
 ### 11월 4주차
