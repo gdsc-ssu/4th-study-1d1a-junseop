@@ -40,7 +40,7 @@
 |---------|--------|-------|--------|--------|
 | 11.25 | [수 정렬하기 3](https://www.acmicpc.net/problem/10989) | 정렬 | Baekjoon | Bronze 1 |
 | 11.26 | [소트인사이드](https://www.acmicpc.net/problem/1427) | 정렬 | Baekjoon | Silver 5 |
-| 11.27 |  |  |  |  |
+| 11.27 | [좌표 정렬하기](https://www.acmicpc.net/problem/11650) | 정렬 | Baekjoon | Silver 5 |
 | 11.28 |  |  |  |  |
 | 11.29 |  |  |  |  |
 | 11.30 |  |  |  |  |
