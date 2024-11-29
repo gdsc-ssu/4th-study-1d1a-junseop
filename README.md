@@ -42,7 +42,7 @@
 | 11.26 | [소트인사이드](https://www.acmicpc.net/problem/1427) | 정렬 | Baekjoon | Silver 5 |
 | 11.27 | [좌표 정렬하기](https://www.acmicpc.net/problem/11650) | 정렬 | Baekjoon | Silver 5 |
 | 11.28 | [좌표 정렬하기 2](https://www.acmicpc.net/problem/11651) | 정렬 | Baekjoon | Silver 5 |
-| 11.29 |  |  |  |  |
+| 11.29 | [단어 정렬](https://www.acmicpc.net/problem/1181) | 정렬 | Baekjoon | Silver 5 |
 | 11.30 |  |  |  |  |
 | 12.01 |  |  |  |  |
 
