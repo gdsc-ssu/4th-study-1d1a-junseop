@@ -51,7 +51,7 @@
 |---------|--------|-------|--------|--------|
 | 12.02 | [숫자 카드](https://www.acmicpc.net/problem/10815) | 집합과 맵 | Baekjoon | Silver 5 |
 | 12.03 | [문자열 집합](https://www.acmicpc.net/problem/14425) | 집합과 맵 | Baekjoon | Silver 4 |
-| 12.04 |  |  |  |  |
+| 12.04 | [회사에 있는 사람](https://www.acmicpc.net/problem/7785) | 집합과 맵 | Baekjoon | Silver 5 |
 | 12.05 |  |  |  |  |
 | 12.06 |  |  |  |  |
 | 12.07 |  |  |  |  |
