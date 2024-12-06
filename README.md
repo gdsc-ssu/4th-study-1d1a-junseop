@@ -53,7 +53,7 @@
 | 12.03 | [문자열 집합](https://www.acmicpc.net/problem/14425) | 집합과 맵 | Baekjoon | Silver 4 |
 | 12.04 | [회사에 있는 사람](https://www.acmicpc.net/problem/7785) | 집합과 맵 | Baekjoon | Silver 5 |
 | 12.05 | [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) | 집합과 맵 | Baekjoon | Silver 4 |
-| 12.06 |  |  |  |  |
+| 12.06 | [숫자 카드 2](https://www.acmicpc.net/problem/10816) | 집합과 맵 | Baekjoon | Silver 4 |
 | 12.07 |  |  |  |  |
 | 12.08 |  |  |  |  |
 
