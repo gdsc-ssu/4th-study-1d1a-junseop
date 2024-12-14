@@ -65,5 +65,5 @@
 | 12.11 |  |  |  |  |
 | 12.12 |  |  |  |  |
 | 12.13 | [대칭 차집합](https://www.acmicpc.net/problem/1269) | 집합과 맵 | Baekjoon | Silver 4 |
-| 12.14 |  |  |  |  |
+| 12.14 | [새로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478) | 집합과 맵 | Baekjoon | Silver 3 |
 | 12.15 |  |  |  |  |
